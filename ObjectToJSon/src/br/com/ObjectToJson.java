@@ -12,6 +12,7 @@ import java.util.logging.Logger;
  * @author wilson
  */
 public class ObjectToJson {
+    
 
     public static String TXT = "txt";
     public static String CSV = "csv";
